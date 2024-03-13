@@ -1,3 +1,3 @@
-As part of my bioinformatics project, I had the chance to work on the beautiful region of Kerala.
+# Rainfall in Kerala
 
-The notebook is the first file displayed above "IBI_ILAN_MARWAN_YOUSSEF (1).ipynb", the heatmaps on the map of Kerala are not visible directly from GitHub
+In this repository you can find my L3 project on data analysis on global warming that I carried out in Kerala. In this notebook we can find statistical methods showing the potential impact of global warming on rainfall in the region.
